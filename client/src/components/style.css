@@ -1,0 +1,7 @@
+.MuiList-root {
+    background-color: #202020!important;
+}
+
+.MuiAccordion-root.Mui-disabled {
+    background-color: #f9f0f036!important;
+}
